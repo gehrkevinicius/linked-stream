@@ -11,11 +11,12 @@ Veja os arquivos `linked-list.js`, `server.js` e `client.js`!
 
 ## Como rodar?
 
-- Utilize o arquivo `playground.js` para testar sua lista encadeada, rodando `npm run playground`
-- Para testar a comunicação entre cliente e servidor, rode _primeiro_ `npm run server` e depois `npm run client`
+- Primeiro, faça o clone deste repositório para a sua máquina;
+- Depois, utilize o arquivo `playground.js` para testar sua lista encadeada, rodando `npm run playground`;
+- Por fim, para testar a comunicação entre cliente e servidor, rode **primeiro** `npm run server` e depois `npm run client`.
 
 ## Como entregar?
 
 Crie um repositório no GitHub e envie o link pelo Classroom!
 
-Boa sorteeeeee! _GOGOGOGOGO_.
+Boa sorteeeeee! **GOGOGOGOGO**.
